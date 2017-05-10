@@ -1,0 +1,14 @@
+Open prompt de comando
+typed: 
+
+Copying from my computer to the cluster:
+
+pscp C:\Users\josue\test_supersmart\run.sh x_josan@triolith.nsc.liu.se:/home/x_josan
+
+
+Copying from the cluster to my computer:just need to do the contrary
+
+
+okdqepihf3eq
+
+cewodhfowieh
